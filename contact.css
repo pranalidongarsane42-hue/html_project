@@ -1,0 +1,36 @@
+nav {
+      background-color: rgb(84, 6, 6);
+      font-size: 25px;
+      height: 50px;
+    }
+
+    a {
+      color: white;
+    }
+
+    h1 {
+      font-size: 35px;
+    }
+
+    address{
+        font-size: 35px;
+    }
+    button{
+        font-size: 20px;
+        border-radius: 25px;
+        background-color: antiquewhite;
+    }
+    fieldset{
+        font-size: 30px;
+    }
+    footer{
+        height: 50px;
+        background-color: grey;
+        font-size: 32px;      
+    }
+    address{
+      display: inline-block;
+    }
+    iframe{
+      display: inline-block;
+    }
